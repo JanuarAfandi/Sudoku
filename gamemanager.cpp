@@ -1,7 +1,7 @@
 #include<iostream>
 #include "gamemanager.h"
 using namespace std;
-class board {
+class gamemanager {
 private:
 public:
 };
