@@ -13,3 +13,5 @@ public:
 	void lessScore(int);
 	int getScore();
 };
+
+//M. Awaluddin Romadhon
